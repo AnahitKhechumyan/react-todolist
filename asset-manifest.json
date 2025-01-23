@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AnahitKhechumyan/react-todolist.git/static/css/main.d49b592c.css",
+    "main.js": "/AnahitKhechumyan/react-todolist.git/static/js/main.d6596e8a.js",
+    "static/js/488.4812a96e.chunk.js": "/AnahitKhechumyan/react-todolist.git/static/js/488.4812a96e.chunk.js",
+    "static/media/flouers.jpg": "/AnahitKhechumyan/react-todolist.git/static/media/flouers.0e44ebdbdd7c2201f825.jpg",
+    "index.html": "/AnahitKhechumyan/react-todolist.git/index.html",
+    "main.d49b592c.css.map": "/AnahitKhechumyan/react-todolist.git/static/css/main.d49b592c.css.map",
+    "main.d6596e8a.js.map": "/AnahitKhechumyan/react-todolist.git/static/js/main.d6596e8a.js.map",
+    "488.4812a96e.chunk.js.map": "/AnahitKhechumyan/react-todolist.git/static/js/488.4812a96e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d49b592c.css",
+    "static/js/main.d6596e8a.js"
+  ]
+}
