@@ -1,0 +1,88 @@
+ .container{
+  text-align: center;
+}
+
+h1{
+  font-size: 50px;
+  color: wheat;
+ }
+  
+ #task{
+  font-size: 20px;
+  width: 80%;
+}
+#task:focus{
+  outline: none;
+  border: 2px solid rgb(26, 26, 72);
+}
+
+#btn{
+  height: 51px;
+}
+
+.btn-area{
+  margin-top: 20px;
+}
+.active{
+  background-color: rgb(41, 41, 81);
+  color: white !important;
+}
+.todo-list{
+  margin-top: 20px;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  border: none;
+}
+.todo-list-item{
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border: 1px solid #ccc;
+  box-shadow: 0px 3px 5px grey;
+}
+
+.todo-list-item:hover{
+  cursor: pointer;
+  border: 2px solid rgb(230, 88, 6) !important;
+}
+.icons{
+  margin-top: 10px;
+}
+.icon{
+  font-size: 18px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.icon:hover{
+  color: red;
+}
+
+.check-icon{
+  font-size: 15px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.check-icon:hover{
+  color: rgb(6, 172, 6);
+  }
+  
+p{
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(34, 34, 79);
+}
+.segment{
+   text-align: center;
+}
+
+h4{
+  color:rgb(50, 50, 154);
+}
+
+a{
+   font-size: 20px;
+}
+ 
